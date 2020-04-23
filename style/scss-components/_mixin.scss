@@ -1,0 +1,5 @@
+@mixin paragraph_style {
+    font-size: calc(10px + 0.2vw);
+    color: rgb(119, 119, 119);
+    text-transform: capitalize;   
+}
